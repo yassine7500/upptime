@@ -3,5 +3,7 @@ repo: upptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
+  - name: Laravel
+    url: https://laravel.com/
 assignees: # Users to assign downtime issues (optional)
   - yassine7500
