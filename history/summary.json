@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 71,
-    "timeWeek": 80,
-    "timeMonth": 87,
+    "timeDay": 67,
+    "timeWeek": 78,
+    "timeMonth": 85,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,15 @@
     "slug": "laravel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 5178,
-    "timeWeek": 1801,
-    "timeMonth": 591,
-    "timeYear": 231,
-    "dailyMinutesDown": {
-      "2021-07-02": 11
-    }
+    "time": 230,
+    "timeDay": 5175,
+    "timeWeek": 1803,
+    "timeMonth": 584,
+    "timeYear": 230,
+    "dailyMinutesDown": {}
   }
 ]
